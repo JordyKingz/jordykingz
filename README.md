@@ -37,6 +37,7 @@ I'm a passionate developer, with a keen interest in blockchain technology, NFTs,
 
 Feel free to browse through my repositories and don't hesitate to reach out if you want to collaborate on a project or just want to chat!
 
+---
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
