@@ -38,4 +38,3 @@ jobs:
         git add README.md
         git commit --allow-empty -m "update TVL data [skip ci]"
         git push
-        

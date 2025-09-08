@@ -41,10 +41,10 @@ def update_readme(data):
         content = f.read()
     
     # Create the new Yala line with TVL
-    new_line = f"- **Launch Yala** - At [Yala](https://yala.org) we're building the liquidity layer for Bitcoin. Launched. **TVL: {tvl_formatted}** *(Updated: {timestamp})*"
+    new_line = f"- **Yala** - Launched [Yala](https://yala.org), the liquidity layer for Bitcoin **TVL: {tvl_formatted}** *(Updated: {timestamp})*"
     
     # Replace the Yala line
-    pattern = r'- \*\*Launch Yala\*\* - At \[Yala\]\(https://yala\.org\) we\'re building the liquidity layer for Bitcoin\. Launched\..*'
+    pattern = r'- \*\*Yala\*\* - Launched \[Yala\]\(https://yala\.org\), the liquidity layer for Bitcoin.*'
     content = re.sub(pattern, new_line, content)
     
     # Write updated README
