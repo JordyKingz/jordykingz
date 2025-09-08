@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Jordy!
 
-I'm a passionate developer, with a keen interest in blockchain technology, NFTs, and cyber security. I love exploring new technologies and applying them to real-world problems.
+I'm a passionate developer, with a keen interest in blockchain technology, DeFi, AI and cyber security. I love exploring new technologies and applying them to real-world problems.
 
 ### About Me
 
@@ -10,7 +10,7 @@ I'm a passionate developer, with a keen interest in blockchain technology, NFTs,
 
 ### Projects I'm Proud Of
 
-- **Yala** - Launched [Yala](https://yala.org), the liquidity layer for Bitcoin **TVL: $215.96M** *(Updated: 2025-09-08 17:01 UTC)*
+- **Yala** - Launched [Yala](https://yala.org), the liquidity layer for Bitcoin **TVL: $217.73M** *(Updated: 2025-09-08 20:21 UTC)*
 - **Alpha-Charts** - A trading journaling app that helps traders track and analyze their trades. Based on user trades they can get AI coaching with action plans to improve their trading. [Alpha-Charts](https://alpha-charts.com)
 - **OSRSHUB** - Users can purchase Clan Bingo's. Each Bingo purchase will configure a VPS with our Bingo template. It's setup in 10 minutes using SaltStack as configuration management. [OSRSHUB](https://osrshub.com)
 - **RPS8Bit** - Launched a Rock Paper Scissor game on Monad testnet. A Player vs Player on-chain game. Create your game, set a wager and win $MON [RPS8Bit](https://www.rps8bit.xyz/)

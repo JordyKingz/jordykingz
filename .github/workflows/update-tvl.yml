@@ -31,10 +31,22 @@ jobs:
     - name: Update TVL data
       run: python scripts/update_tvl.py
     
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git diff --name-only
+        git status --porcelain
+    
     - name: Commit and push if changed
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git commit --allow-empty -m "update TVL data [skip ci]"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        else
+          echo "Changes detected, committing..."
+          git commit -m "Update TVL data [skip ci]"
+          git push
+        fi
