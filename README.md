@@ -10,6 +10,9 @@ I'm a passionate developer, with a keen interest in blockchain technology, NFTs,
 
 ### Projects I'm Proud Of
 
+- **Launched Yala** - At [Yala](https://yala.org) we're building the liquidity layer for Bitcoin. Launched. **TVL: $215.96M** *(Updated: 2025-09-08 17:01 UTC)*
+- **Alpha-Charts** - A trading journaling app that helps traders track and analyze their trades. Based on user trades they can get AI coaching with action plans to improve their trading. [Alpha-Charts](https://alpha-charts.com)
+- **OSRSHUB** - Users can purchase Clan Bingo's. Each Bingo purchase will configure a VPS with our Bingo template. It's setup in 10 minutes using SaltStack as configuration management. [OSRSHUB](https://osrshub.com)
 - **RPS8Bit** - Launched a Rock Paper Scissor game on Monad testnet. A Player vs Player on-chain game. Create your game, set a wager and win $MON [RPS8Bit](https://www.rps8bit.xyz/)
 - **Aqaro** - A revolutionary [Protocol for Decentralized Real Estate](https://aqaro.app). Aqaro aims to democratize real estate investments using blockchain technology.
 - **Eternal Entities** - An [NFT project](https://www.eternalentities.io) that eternalizes childhood heroes. Combining nostalgia and humor to create a unique NFT collection.
@@ -17,7 +20,6 @@ I'm a passionate developer, with a keen interest in blockchain technology, NFTs,
 
 ### Goals for 2025
 
-- **Launch Yala** - At [Yala](https://yala.org) we're building the liquidity layer for Bitcoin. Launching soon.
 - **Rust** - I'm currently learning Rust, and I'm planning to build a few projects with it.
 
 ### Latest Collaboration
@@ -53,17 +55,4 @@ Feel free to browse through my repositories and don't hesitate to reach out if y
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!--
-**JordyKingz/jordykingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SaltStack](https://img.shields.io/badge/SaltStack-%232196F3.svg?style=for-the-badge&logo=SaltStack&logoColor=white)
