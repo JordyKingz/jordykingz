@@ -10,7 +10,7 @@ I'm a passionate developer, with a keen interest in blockchain technology, DeFi,
 
 ### Projects I'm Proud Of
 
-- **Yala** - Launched [Yala](https://yala.org), the liquidity layer for Bitcoin **TVL: $242.39M** *(Updated: 2025-10-23 21:06 UTC)*
+- **Yala** - Launched [Yala](https://yala.org), the liquidity layer for Bitcoin **TVL: $240.84M** *(Updated: 2025-10-23 22:06 UTC)*
 - **Alpha-Charts** - A trading journaling app that helps traders track and analyze their trades. Based on user trades they can get AI coaching with action plans to improve their trading. [Alpha-Charts](https://alpha-charts.com)
 - **OSRSHUB** - Users can purchase Clan Bingo's. Each Bingo purchase will configure a VPS with our Bingo template. It's setup in 10 minutes using SaltStack as configuration management. [OSRSHUB](https://osrshub.com)
 - **RPS8Bit** - Launched a Rock Paper Scissor game on Monad testnet. A Player vs Player on-chain game. Create your game, set a wager and win $MON [RPS8Bit](https://www.rps8bit.xyz/)
