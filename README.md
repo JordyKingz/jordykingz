@@ -4,7 +4,7 @@ I'm a passionate developer, with a keen interest in blockchain technology, DeFi,
 
 ### About Me
 
-- 🏗️ Founder of [Nefkon](https://nefkon.com) - dedicated to creating innovative and impactful software solutions.
+- 🏗️ Founder of [Chainforce Labs](https://chainforcelabs.xyz) - building secure, scalable, and innovative blockchain solutions.
 - 🔒 Actively participating in security audit contests on platforms like Code4rena, Sherlock, and CodeHawks.
 - 🌐 Visit my [personal website](https://jordydekoning.com) to know more about me.
 
@@ -15,7 +15,7 @@ I'm a passionate developer, with a keen interest in blockchain technology, DeFi,
 - **OSRSHUB** - Users can purchase Clan Bingo's. Each Bingo purchase will configure a VPS with our Bingo template. It's setup in 10 minutes using SaltStack as configuration management. [OSRSHUB](https://osrshub.com)
 - **RPS8Bit** - Launched a Rock Paper Scissor game on Monad testnet. A Player vs Player on-chain game. Create your game, set a wager and win $MON [RPS8Bit](https://www.rps8bit.xyz/)
 - **Aqaro** - A revolutionary [Protocol for Decentralized Real Estate](https://aqaro.app). Aqaro aims to democratize real estate investments using blockchain technology.
-- **Eternal Entities** - An [NFT project](https://www.eternalentities.io) that eternalizes childhood heroes. Combining nostalgia and humor to create a unique NFT collection.
+- **Eternal Entities** - An [NFT project](https://www.eternalentities.xyz) that eternalizes childhood heroes. Combining nostalgia and humor to create a unique NFT collection.
 - **Gold Exchange** - Contributed to a major project at my previous job to build a [gold-pegged stable token](https://github.com/JordyKingz/gold-exchange-smartcontracts) on the Hedera blockchain.
 
 ### Goals for 2025
